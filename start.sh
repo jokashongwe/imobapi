@@ -1,0 +1,1 @@
+uvicorn imobi.main:app --reload
